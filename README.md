@@ -212,7 +212,7 @@ Epoch 5/5
 | 4 | 32 | 2048 |
 | 5 | 64 | 2048 |
 | ~~ | ~~ | ~~ |
-9번째일 때 가장 낮게 나옴.
+- 9번째일 때 가장 낮게 나옵니다.
 - 시간이 너무 오래 걸려 위의 hyper parameters와 같이 plot하지는 못 했습니다.    
 - kernel이 자꾸 죽는 바람에 나눠서 검사했습니다.  
   -Resource exhausted: OOM when allocating tensor with shape[1024,2048] 발생  
